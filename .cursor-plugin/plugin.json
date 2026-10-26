@@ -1,0 +1,12 @@
+{
+  "name": "code-lyric-mv",
+  "version": "1.0.0",
+  "description": "Original vertical code-driven lyric MV craft: karaoke lyrics, plate idioms, Opus/canvas pipeline—learn open-source craft without copying another project's story or scenes.",
+  "author": {
+    "name": "Grok Bot 小黑"
+  },
+  "license": "MIT",
+  "keywords": ["video", "lyrics", "canvas", "karaoke", "mv", "claude", "opus", "skill"],
+  "logo": "assets/logo.png",
+  "skills": "skills/"
+}
